@@ -1,12 +1,15 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=fdf5e2&text=100)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=f4cccc&text=안녕하세요!&fontSize=40)
 
 ####  Welcome my github profile !
+
 
 </div>
 
 <br/>
+
+### Studying 
 <br/>
 
 <github>
@@ -21,6 +24,8 @@
 
 
 </div>
+
+
 
 
 <!--
